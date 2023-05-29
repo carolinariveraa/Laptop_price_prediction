@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laptop Price Prediction
 
 El objetivo de este proyecto es la predicción de precios de ordenadores a partir de un csv de Kaggle.
@@ -37,6 +36,4 @@ Una vez realizado el estudio de las variables numéricas y categóricas, se divi
 
 El modelo que ofrecía mejores resultados es el Random Forest 
 Como metrica de evaluación se ha elegido el rmse y el error cuadratico
-=======
-# Laptop price prediction
->>>>>>> badc3cc2e766d1a95a618f1246966e00712cce8e
+
