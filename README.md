@@ -13,10 +13,9 @@ Se han seguido una serie de pasos para el proyecto:
 
 1. Tipo de dato de cada columna
 2. Valores nulos
-3. Outliers
-4. distribución en columnas categoricas
-5. Gráficos de correlación
-6. Ingenieria de caracteristicas 
+3. distribución en columnas categoricas
+4. Gráficos de correlación
+5. Ingenieria de caracteristicas 
 
 ## Preparación de los datos 
 
