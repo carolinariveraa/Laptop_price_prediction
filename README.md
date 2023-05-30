@@ -28,12 +28,71 @@ Se han seguido una serie de pasos para el proyecto:
 
 Gráficos de correlación
 
+<details>
+  <summary>Manufacturer vs Price</summary>
+  <br>
 
+![man](./pics/price_manufacturer.png)
+</details>
+
+ <br>
+
+<details>
+  <summary>Category vs Price</summary>
+  <br>
+
+![man](./pics/price_category.png)
+</details>
+
+ <br>
+
+<details>
+  <summary>Processor vs Price</summary>
+  <br>
+
+![man](./pics/procesador_price.png)
+</details>
+
+ <br>
+
+<details>
+  <summary>RAM vs Price</summary>
+  <br>
+
+![man](./pics/ram_price.png)
+</details>
+
+ <br>
+
+<details>
+  <summary>Screen Size vs Price</summary>
+  <br>
+
+![man](./pics/scatter_screensize_price.png)
+</details>
+
+ <br>
+
+<details>
+  <summary>Storage vs Price</summary>
+  <br>
+
+![man](./pics/storage_price.png)
+</details>
+
+ <br>
+
+ <details>
+  <summary>Operating System vs Price</summary>
+  <br>
+
+![man](./pics/os_price.png)
+</details>
+
+ <br>
 
 ## Conclusión y resultados 
 
 Una vez realizado el estudio de las variables numéricas y categóricas, se divide dataset en una parte de train (80% de los datos) y otra de test (20%). Establecemos una semilla para que la división cada vez que se ejecuta el código sea la misma. 
 
-El modelo que ofrecía mejores resultados es el Random Forest 
-Como metrica de evaluación se ha elegido el rmse y el error cuadratico
-
+El modelo que ofrecía mejores resultados es el Random Forest.
